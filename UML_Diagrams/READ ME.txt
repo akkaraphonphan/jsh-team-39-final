@@ -1,0 +1,8 @@
+This folder contains a series of images that represent the following:
+
+-> Test_Tree                    is a representation of the file and folder hierarchy used for testing 
+-> Package_Applications_UML     is a UML diagram of the Applications Package
+-> Package_CallParser_UML       is a UML diagram of the CallParser Package
+-> Package_CmdLineParser_UML    is a UML diagram of the CmdLineParser Package
+-> Package_Utilities_UML        is a UML diagram of the Utilities Package
+-> Top_Level_Package_UML        is a UML diagram of the whole Project Package
